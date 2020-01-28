@@ -1,4 +1,7 @@
 ﻿Hello World
 welcome to the lab
 second session
-welcome to sec2
+
+welcome to university
+welocome to cse
+
